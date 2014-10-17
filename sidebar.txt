@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[icr:home|Door43 (icr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-icr|d43-icr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-icr/archive/master.zip|d43-icr.zip]]
+
+**Recent Changes**
+{{changes>ns = icr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/icr|Ethnologue data]]
+
